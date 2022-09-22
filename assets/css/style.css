@@ -134,7 +134,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.b {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -142,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,11 +160,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
+*/
+.b img {
     max-height: 200px;
 }
-
+/*
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -172,12 +172,12 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
+*/
+.b h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+*/
 .footer {
     padding: 30px;
     clear: both;
