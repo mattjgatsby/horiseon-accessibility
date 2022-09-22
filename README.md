@@ -2,6 +2,8 @@
 
 Horiseon Social Solutions provides online social media marking and search engine optimization. I optimized the html to fit in accessibility standards as well as added semantic elemnts to the html. 
 
+[Finished site link](https://mattjgatsby.github.io/horiseon-accessibility/)
+
 ## Code Snippit
 Here is an example where I added alt attributes to an image within the html
 ``` html
