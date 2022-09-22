@@ -14,3 +14,4 @@ Here is an example where I added alt attributes to an image within the html
         </article>
 ``` 
 
+![Site Screenshot](./assets/images/horiseon%20screenshot.png)
