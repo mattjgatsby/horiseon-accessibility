@@ -15,3 +15,7 @@ Here is an example where I added alt attributes to an image within the html
 ``` 
 
 ![Site Screenshot](./assets/images/horiseon%20screenshot.png)
+
+## Author links
+[Github](https://github.com/mattjgatsby)
+[Linkedin](https://www.linkedin.com/in/matthew-gatsby-1a1521250/)
