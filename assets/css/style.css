@@ -85,12 +85,12 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefit-lead {
+/* condenced .benefit-b, benefit-b h3, and benefit-b img to apply to multiple html lines*/
+.benefit-b {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,12 +100,12 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-lead h3 {
+*/
+.benefit-b h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -115,13 +115,13 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-lead img {
+*/
+.benefit-b img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+*/
 .b {
     margin-bottom: 20px;
     padding: 50px;
